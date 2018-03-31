@@ -17,5 +17,5 @@ Experience the taste that only pure estate and organically grown 100% Kona can p
 From our farm to your cup - Aloha!
 
 ![Get Real Kona Coffee Logo]({{ site.url }}{{ site.baseurl }}/assets/img/get-real-kona-coffee-logo.png){:width="30%"}
-![Kona Coffee Farmers Association Logo]({{ site.url }}{{ site.baseurl }}/assets/img/kona-coffee-farmers-association-logo.jpg){:width="30%"}
-![Specialty Coffee Association Logo]({{ site.url }}{{ site.baseurl }}/assets/img/specialty-coffee-association-logo.jpg){:width="30%"}
+[![Kona Coffee Farmers Association Logo]({{ site.url }}{{ site.baseurl }}/assets/img/kona-coffee-farmers-association-logo.jpg){:width="30%"}](https://www.konacofeefarmers.org)
+[![Specialty Coffee Association Logo]({{ site.url }}{{ site.baseurl }}/assets/img/specialty-coffee-association-logo.jpg){:width="30%"}](https://sca.coffee)

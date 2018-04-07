@@ -30,6 +30,7 @@ minimal_mistakes_skin: "sunrise"
 timezone: America/New_York
 breadcrumbs: false
 paginate: 5
+paginate_path: "/news/page:num/"
 search: true
 og_image: /assets/img/kkflogo.jpg
 permalink: pretty

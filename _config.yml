@@ -26,6 +26,7 @@ repository: "KonaKaffeeFarm/konakaffeefarm"
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "sunrise"
+github: [metadata]
 
 timezone: America/New_York
 breadcrumbs: false

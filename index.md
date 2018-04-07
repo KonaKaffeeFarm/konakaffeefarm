@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: welcome
 header:
   logo: /assets/img/kkflogo.png
   overlay_image: /assets/img/red-green-coffee-beans.jpg

@@ -45,6 +45,12 @@ plugins:
   - jekyll-feed
 
 defaults:
+  # global
+  - scope:
+      path: ""
+    values:
+      header:
+        og_image: /assets/img/kkflogo.png
   # _pages
   - scope:
       path: ""
